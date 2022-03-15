@@ -67,3 +67,17 @@ function capitalizeWord(word) {
 ## work experience:
 
 No work experience.
+
+---
+
+## Education:
+
+<p>Voronezh State University</p>
+<p>Faculty - Geological</p>
+<p>Specialty - Geophysicist</p>
+
+---
+
+## Languages:
+
+English: A2 (Study with a teacher)
